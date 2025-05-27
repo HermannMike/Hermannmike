@@ -1,16 +1,25 @@
 ## Hi there 👋
 
 <!--
-**HermannMike/Hermannmike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me:
 
-Here are some ideas to get you started:
+a student and budding software developer with about a year of hands-on experience
+in Python and web development. I’ve been diving into projects that help me learn by doing,
+and I’m always looking for new challenges that push my skills further. Whether it’s building a
+web app or experimenting with backend logic, I enjoy figuring out how things work and
+making them better. Right now, I’m focused on growing my skills and exploring new tools
+and technologies in the dev world.
+🌐 Socials:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[Facebook](https://facebook.com/Junior White) [Instagram](https://instagram.com/Junior White) [X](https://x.com/herman Mike) email
+💻 Tech Stack:
+
+Python JavaScript HTML5 Windows Terminal GitHub
+📊 GitHub Stats:
+
+
+
+
+
+
 -->
